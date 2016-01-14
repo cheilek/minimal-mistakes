@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title:            Thoughts on Networking
+locale:           en_GB
+url:		  
 
 
 # Jekyll configuration
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Alan Cheilek
+  avatar: alan-logo-300x300.png
+  bio: "Observations from twenty years working in the networking industry."
+  email: cheilek@bassclef.org
   disqus-shortname:
-  twitter: #username
+  twitter: alancheilek
   facebook: #username
   google:
     plus: #username
@@ -40,9 +40,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: cheilek
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: alancheilek
   xing: #username
   instagram: #username
   lastfm: #username
