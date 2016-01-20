@@ -1,7 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Thoughts on Networking, writings by Alan Cheilek."
+tags: [networking]
 image:
   feature: sunset-mountains.jpg
+  credit: Alan Cheilek
 ---
+Observations from twenty years working in the networking industry.
